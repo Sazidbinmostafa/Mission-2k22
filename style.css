@@ -1,0 +1,169 @@
+.Header{
+    padding-bottom: 25px;
+}
+.Button{
+    padding: 10px 30px;
+    border: 2px solid tomato;
+    background-color: rgb(248, 104, 79);
+    border-radius: 5px;
+    text-decoration: none;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h2{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 44px;
+    font-weight: 800;
+}
+p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 500;
+    font-size: 18px;
+    opacity: 70%;
+}
+.Headline{
+    width: 100%;
+    padding: 100px 0 0 150px;
+}
+.Flexible{
+    display: flex;
+}
+.i2 img{
+    width: 60%;
+}
+.M2k22{
+    padding-left: 10px;
+    border-left: solid 3px tomato;
+    border-radius: 3px;
+
+}
+.Tomato{
+    color: tomato;
+}
+.Roboto{
+    font-family: 'Yeseva One', cursive;
+    font-size: 53px;
+    font-weight: 500;
+}
+.Down-Opacity{
+    opacity: 80%;
+}
+.Orange{
+    color: rgb(255, 145, 0);
+    opacity: 90%;
+}
+.Mission2k22{
+    padding-left: 450px;
+}
+.MVG{
+    padding-left: 100px;
+}
+.Box{
+    height: 400px;
+    width: 314px;
+    border-radius: 20px;
+    margin: 0 20px;
+}
+.Box img{
+    width: 44%;
+    padding-top: 20px;
+}
+h3{
+    font-size: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#Mission{
+    padding-left: 25px;
+    background-color: rgb(237, 250, 250);
+}
+#Vision{
+    padding-left: 25px;
+    background-color: rgb(255, 246, 242);
+}
+#Goals{
+    padding-left: 25px;
+    background-color: rgb(255, 251, 244);
+}
+.Develop-Without-Limits img{
+    width: 80%;
+}
+.Coding{
+    margin-left: 125px;
+}
+.Develop-Without-Limits{
+    margin-top: 100px;
+    margin-right: 125px;
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 235px;
+    background-position: 50px 50px;
+    padding-bottom: 100px;
+}
+.P-border{
+    padding-bottom: 20px;
+}
+.Project img{
+    width: 70%;
+}
+.Project{
+    padding-left: 200px;
+    padding-bottom: 100px;
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 200px;
+    background-position: 450px 250px;
+
+}
+.KOGC{
+    padding-left: 125px;
+    width: 110%;
+}
+.KOGC h2{
+    font-weight: 800;
+    font-size: 35px;
+}
+.Learn{
+    padding-left: 450px;
+    opacity: 90%;
+}
+.Prog-just{
+    padding-left: 200px;
+    width: 100%;
+}
+.App{
+    padding-left: 125px;
+}
+.App img{
+    width: 135%;
+}
+h3{
+    font-size: 35px;
+    opacity: 90%;
+    font-weight: 800;
+}
+body{
+    margin: 0 0;
+}
+.Lobster{
+    font-family: 'Lobster', cursive;
+    color: white;
+    opacity: 90%;
+    font-size: 30px;
+}
+.MS22{
+    padding-left: 580px;
+}
+.Footer{
+    Padding-top: 5px;
+}
+.Hardwork{
+    padding-left: 490px;
+    color: white;
+    font-size: 14px;
+}
+footer{
+    margin-top: 50px;
+    height: 170px;
+    width: 100%;
+    background-color: rgb(0, 0, 19);
+}
